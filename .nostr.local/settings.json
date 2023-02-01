@@ -1,10 +1,10 @@
 {
   "info": {
-    "relay_url": "wss://nostream.localtest.me",
-    "name": "nostream.localtest.me",
+    "relay_url": "wss://tonyo.up.railway.app",
+    "name": "tonyo@nostrplebs.com",
     "description": "A nostr relay written in TypeScript.",
-    "pubkey": "replace-with-your-pubkey",
-    "contact": "operator@your-domain.com"
+    "pubkey": "npub10axhulmzmglwl2jsl34l00p727gxn08a8lxmgxxfypmatj3fk6qq8jl430",
+    "contact": "tonyo@nostrplebs.com"
   },
   "network": {
     "max_payload_size": 131072,
